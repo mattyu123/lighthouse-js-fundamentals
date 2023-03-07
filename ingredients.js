@@ -7,7 +7,6 @@ while (i < ingredients.length){
   i++
 }
 
-
 // Write a for loop that prints out the contents of ingredients:
 for (let i = 0;i<ingredients.length;i++){
   console.log(ingredients[i]);
